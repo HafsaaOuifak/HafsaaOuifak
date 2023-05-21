@@ -8,11 +8,9 @@
 
 ⚡I like to explore new technologies and test them out, find bugs, share my knowledge, develop new solutions and quick hacks.
 - 🔭 I’m currently working on my PhD thesis
-- 🌱 Interested to learn about project management
 - 👯 Looking to collaborate on accross domain research
 - 📫 How to reach me: hafsaaouifak@gmail.com
 - 😄 Pronouns: Her, She
-- 🎶 Music I listen to while coding: One piece (remix), Detective Conan (remix), and other famous Programming / Coding / Hacking musics 
 <br>
 <br>
 
@@ -36,10 +34,5 @@
 </p>
 
 
-
-## Contact & Details 
-Linkedin <br>
-Twitter (@HafsaaOuifak) <br>
-ResearchGate <br>
 
 
