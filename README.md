@@ -16,7 +16,7 @@
 Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neuro-Fuzzy
 <br>
 
-## 🛠 &nbsp;Machine Learning Stack
+## 🛠 &nbsp;Programming
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
