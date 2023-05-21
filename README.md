@@ -11,7 +11,6 @@
 - 📫 How to reach me: hafsaaouifak@gmail.com
 - 😄 Pronouns: Her, She
 <br>
-<br>
 
 ## 🔍	&nbsp;Research interest
 Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neuro-Fuzzy
@@ -26,7 +25,7 @@ Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neur
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
