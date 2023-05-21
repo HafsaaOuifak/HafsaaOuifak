@@ -22,9 +22,6 @@ Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neur
 
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
