@@ -12,6 +12,9 @@
 - 😄 Pronouns: Her, She
 <br>
 <br>
+## Research interest
+Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neuro-Fuzzy
+<br>
 
 ## 🛠 &nbsp;Machine Learning Stack
 
