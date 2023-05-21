@@ -36,15 +36,10 @@
 </p>
 
 
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-
-<a href="https://www.buymeacoffee.com/ihssane" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Contact & Details 
-Linkedin
-Twitter (@HafsaaOuifak)
-ResearchGate
+Linkedin <br>
+Twitter (@HafsaaOuifak) <br>
+ResearchGate <br>
 
 
