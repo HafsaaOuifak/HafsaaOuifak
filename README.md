@@ -1,6 +1,5 @@
 <div align="center">
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰! </h2>
-<img src="https://visitor-badge.glitch.me/badge?page_id=HafsaaOuifak&left_color=green&right_color=red" alt="visitor badge"/>
 </div>
 
  <br/>  
@@ -27,6 +26,15 @@ Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neur
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/HafsaaOuifak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafsaaOuifak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafsaaOuifak&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
