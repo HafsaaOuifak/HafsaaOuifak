@@ -1,17 +1,12 @@
 <div align="center">
- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <researchers/>! <br/>
- Interested in connecting/networking? 
-I am on Linkedin
-I am on Twitter (@HafsaaOuifak)
-For research
-I am on ResearchGate
+ <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <researchers/>! 
  </h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=HafsaaOuifak&left_color=green&right_color=red" alt="visitor badge"/>
 </div>
 
  <br/>  
 
-⚡ Fun fact:  I like to explore new technologies and test them out, find bugs, share my knowledge, develop software solutions and quick hacks.
+⚡I like to explore new technologies and test them out, find bugs, share my knowledge, develop new solutions and quick hacks.
 - 🔭 I’m currently working on my PhD thesis
 - 🌱 Interested to learn about project management
 - 👯 Looking to collaborate on accross domain research
@@ -21,7 +16,7 @@ I am on ResearchGate
 <br>
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Machine Learning Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
@@ -46,5 +41,10 @@ I am on ResearchGate
 
 
 <a href="https://www.buymeacoffee.com/ihssane" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+## Contact & Details 
+Linkedin
+Twitter (@HafsaaOuifak)
+ResearchGate
 
 
