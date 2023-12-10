@@ -5,15 +5,15 @@
  <br/>  
 
 ⚡I like to explore new technologies and test them out, find bugs, share my knowledge, develop new solutions and quick hacks.
-- 🔭 I’m currently working on my PhD thesis
-- 👯 Looking to collaborate on accross domain research
-- 📫 How to reach me: hafsaaouifak@gmail.com
+- 🔭 PhD research in Explainable Artificial Intelligence
+- 👯 Looking to collaborate on research and developement projects
+- 📫 Contact: hafsaaouifak@gmail.com
 - 😄 Pronouns: Her, She
 <br>
 
 ## 🔍	&nbsp;Research interest
 
-Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Neuro-Fuzzy
+Artificial Intelligence | Explainable AI | Interpretability | Fuzzy Logic | Fuzzy Neural Networks
 <br>
 
 ## 🛠 &nbsp;Programming
