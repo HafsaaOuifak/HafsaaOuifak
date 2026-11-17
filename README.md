@@ -59,16 +59,20 @@ Rule 3 [ Medium  | Medium  | Medium  | High    ]  →  PE ≈ 461 MW
 | 🦙 [**Llama-2 + QLoRA**](https://github.com/HafsaaOuifak/Easy-Finetuning-of-Llama-2-7b-using-QLoRA) | A friendly walkthrough for fine-tuning Llama-2-7b with QLoRA |
 | 📈 [**Stock market forecasting**](https://github.com/HafsaaOuifak/Stock-market-forecasting) | Neural networks tuned with genetic optimization for market forecasting |
 
-## 📄 Selected publications
+## 📄 Featured journal papers
 
-- **Digital twin for battery energy storage systems**: *Renewable and Sustainable Energy Reviews*, 2026
-- **SimBAC-NFS: Similarity-Based Aggregation and Calibration of Neuro-Fuzzy Systems**: *Applied Computational Intelligence and Soft Computing*, 2026
-- **Physics-Informed Models for Battery State-of-Health Estimation: Performance-Interpretability Trade-offs**: *ICAI 2026*
-- **Toward AI-Enabled Battery Management and Mission Decision Support for Autonomous Maritime Defense Systems**: *Resilience Week 2026*
-- **A Comprehensive Review of Fuzzy Logic based Interpretability and Explainability of Machine Learning Techniques Across Domains**
-- **On the performance and interpretability of Mamdani and Takagi-Sugeno-Kang based neuro-fuzzy systems for medical diagnosis**
+| Year | Paper | Journal |
+|---|---|---|
+| 2026 | [**SimBAC-NFS: Similarity-Based Aggregation and Calibration of Neuro-Fuzzy Systems**](https://doi.org/10.1155/acis/3194148) | Applied Computational Intelligence and Soft Computing |
+| 2026 | [**Digital twin for battery energy storage systems**](https://doi.org/10.1016/j.rser.2025.116347) | Renewable and Sustainable Energy Reviews |
+| 2025 | [**A Comprehensive Review of Fuzzy Logic based Interpretability and Explainability of Machine Learning Techniques Across Domains**](https://doi.org/10.1016/j.neucom.2025.130602) | Neurocomputing |
+| 2024 | [**Homogenous Ensembles of Neuro-Fuzzy Classifiers using Hyperparameter Tuning for Medical Data**](https://doi.org/10.1142/S0218488524500119) | International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems |
+| 2023 | [**Application of neuro-fuzzy ensembles across domains: A systematic review of the two last decades (2000–2022)**](https://doi.org/10.1016/j.engappai.2023.106582) | Engineering Applications of Artificial Intelligence |
+| 2023 | [**On the performance and interpretability of Mamdani and Takagi-Sugeno-Kang based neuro-fuzzy systems for medical diagnosis**](https://doi.org/10.1016/j.sciaf.2023.e01610) | Scientific African |
 
-📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=mIfDvBIAAAAJ) · 6 journal articles · 6 conference papers · 2 under review
+📚 [Google Scholar](https://scholar.google.com/citations?user=mIfDvBIAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Hafsaa-Ouifak-2) · [Full publication library](https://hafsaaouifak.github.io/publications.html)
+
+Recent conference presentations include physics-informed battery state-of-health models at **ICAI 2026** and AI-enabled battery management for autonomous maritime systems at **Resilience Week 2026**. See the portfolio for publication status and the full conference list.
 
 ## 🛠 On my workbench
 
